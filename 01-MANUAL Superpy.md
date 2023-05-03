@@ -1,4 +1,4 @@
-######## Manual super.py program ########
+##  ###### Manual super.py program ########
 The super.py is a Python command-line program that can be used for the inventory administration of a supermarket. The database has 2 main .csv files: bought.csv & sold.csv. With the program you can add a bought or sold product to these lists. Furthermore, based on these two .csv files, the program can create 5 types of reports: bought, sold, revenue, profit and inventory. 
 Below, you will be guided through all the functionalities of the program. Before you start running the example code below in your terminal, first navigate to the folder where you saved the program. 
 
